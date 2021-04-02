@@ -1,0 +1,13 @@
+C:\Users\Magi\source\repos\Lab1-Employee\Lab1-Employee\bin\Debug\netcoreapp3.1\Lab1-Employee.exe
+C:\Users\Magi\source\repos\Lab1-Employee\Lab1-Employee\bin\Debug\netcoreapp3.1\Lab1-Employee.deps.json
+C:\Users\Magi\source\repos\Lab1-Employee\Lab1-Employee\bin\Debug\netcoreapp3.1\Lab1-Employee.runtimeconfig.json
+C:\Users\Magi\source\repos\Lab1-Employee\Lab1-Employee\bin\Debug\netcoreapp3.1\Lab1-Employee.runtimeconfig.dev.json
+C:\Users\Magi\source\repos\Lab1-Employee\Lab1-Employee\bin\Debug\netcoreapp3.1\Lab1-Employee.dll
+C:\Users\Magi\source\repos\Lab1-Employee\Lab1-Employee\bin\Debug\netcoreapp3.1\Lab1-Employee.pdb
+C:\Users\Magi\source\repos\Lab1-Employee\Lab1-Employee\obj\Debug\netcoreapp3.1\Lab1-Employee.csprojAssemblyReference.cache
+C:\Users\Magi\source\repos\Lab1-Employee\Lab1-Employee\obj\Debug\netcoreapp3.1\Lab1-Employee.AssemblyInfoInputs.cache
+C:\Users\Magi\source\repos\Lab1-Employee\Lab1-Employee\obj\Debug\netcoreapp3.1\Lab1-Employee.AssemblyInfo.cs
+C:\Users\Magi\source\repos\Lab1-Employee\Lab1-Employee\obj\Debug\netcoreapp3.1\Lab1-Employee.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\Lab1-Employee\Lab1-Employee\obj\Debug\netcoreapp3.1\Lab1-Employee.dll
+C:\Users\Magi\source\repos\Lab1-Employee\Lab1-Employee\obj\Debug\netcoreapp3.1\Lab1-Employee.pdb
+C:\Users\Magi\source\repos\Lab1-Employee\Lab1-Employee\obj\Debug\netcoreapp3.1\Lab1-Employee.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Magi\source\repos\TestDelegate\LinQTest\bin\Debug\netcoreapp3.1\LinQTest.exe
+C:\Users\Magi\source\repos\TestDelegate\LinQTest\bin\Debug\netcoreapp3.1\LinQTest.deps.json
+C:\Users\Magi\source\repos\TestDelegate\LinQTest\bin\Debug\netcoreapp3.1\LinQTest.runtimeconfig.json
+C:\Users\Magi\source\repos\TestDelegate\LinQTest\bin\Debug\netcoreapp3.1\LinQTest.runtimeconfig.dev.json
+C:\Users\Magi\source\repos\TestDelegate\LinQTest\bin\Debug\netcoreapp3.1\LinQTest.dll
+C:\Users\Magi\source\repos\TestDelegate\LinQTest\bin\Debug\netcoreapp3.1\LinQTest.pdb
+C:\Users\Magi\source\repos\TestDelegate\LinQTest\obj\Debug\netcoreapp3.1\LinQTest.AssemblyInfoInputs.cache
+C:\Users\Magi\source\repos\TestDelegate\LinQTest\obj\Debug\netcoreapp3.1\LinQTest.AssemblyInfo.cs
+C:\Users\Magi\source\repos\TestDelegate\LinQTest\obj\Debug\netcoreapp3.1\LinQTest.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\TestDelegate\LinQTest\obj\Debug\netcoreapp3.1\LinQTest.dll
+C:\Users\Magi\source\repos\TestDelegate\LinQTest\obj\Debug\netcoreapp3.1\LinQTest.pdb
+C:\Users\Magi\source\repos\TestDelegate\LinQTest\obj\Debug\netcoreapp3.1\LinQTest.genruntimeconfig.cache
+C:\Users\Magi\source\repos\TestDelegate\LinQTest\obj\Debug\netcoreapp3.1\LinQTest.csprojAssemblyReference.cache

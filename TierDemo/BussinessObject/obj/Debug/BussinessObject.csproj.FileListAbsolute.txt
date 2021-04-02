@@ -1,0 +1,6 @@
+C:\Users\Magi\source\repos\TierDemo\BussinessObject\bin\Debug\BussinessObject.dll
+C:\Users\Magi\source\repos\TierDemo\BussinessObject\bin\Debug\BussinessObject.pdb
+C:\Users\Magi\source\repos\TierDemo\BussinessObject\obj\Debug\BussinessObject.csprojAssemblyReference.cache
+C:\Users\Magi\source\repos\TierDemo\BussinessObject\obj\Debug\BussinessObject.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\TierDemo\BussinessObject\obj\Debug\BussinessObject.dll
+C:\Users\Magi\source\repos\TierDemo\BussinessObject\obj\Debug\BussinessObject.pdb

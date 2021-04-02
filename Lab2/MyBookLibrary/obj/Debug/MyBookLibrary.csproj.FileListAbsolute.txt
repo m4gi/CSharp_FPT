@@ -1,0 +1,6 @@
+C:\Users\Magi\source\repos\Lab2\MyBookLibrary\bin\Debug\MyBookLibrary.dll
+C:\Users\Magi\source\repos\Lab2\MyBookLibrary\bin\Debug\MyBookLibrary.pdb
+C:\Users\Magi\source\repos\Lab2\MyBookLibrary\obj\Debug\MyBookLibrary.csprojAssemblyReference.cache
+C:\Users\Magi\source\repos\Lab2\MyBookLibrary\obj\Debug\MyBookLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\Lab2\MyBookLibrary\obj\Debug\MyBookLibrary.dll
+C:\Users\Magi\source\repos\Lab2\MyBookLibrary\obj\Debug\MyBookLibrary.pdb

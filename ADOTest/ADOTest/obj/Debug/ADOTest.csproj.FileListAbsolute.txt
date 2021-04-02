@@ -1,0 +1,10 @@
+C:\Users\Magi\source\repos\ADOTest\ADOTest\obj\Debug\ADOTest.csprojAssemblyReference.cache
+C:\Users\Magi\source\repos\ADOTest\ADOTest\obj\Debug\ADOTest.FormMain.resources
+C:\Users\Magi\source\repos\ADOTest\ADOTest\obj\Debug\ADOTest.Properties.Resources.resources
+C:\Users\Magi\source\repos\ADOTest\ADOTest\obj\Debug\ADOTest.csproj.GenerateResource.cache
+C:\Users\Magi\source\repos\ADOTest\ADOTest\obj\Debug\ADOTest.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\ADOTest\ADOTest\bin\Debug\ADOTest.exe.config
+C:\Users\Magi\source\repos\ADOTest\ADOTest\bin\Debug\ADOTest.exe
+C:\Users\Magi\source\repos\ADOTest\ADOTest\bin\Debug\ADOTest.pdb
+C:\Users\Magi\source\repos\ADOTest\ADOTest\obj\Debug\ADOTest.exe
+C:\Users\Magi\source\repos\ADOTest\ADOTest\obj\Debug\ADOTest.pdb

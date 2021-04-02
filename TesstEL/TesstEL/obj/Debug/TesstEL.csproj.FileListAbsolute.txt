@@ -1,0 +1,15 @@
+C:\Users\Magi\source\repos\TesstEL\TesstEL\obj\Debug\TesstEL.csprojAssemblyReference.cache
+C:\Users\Magi\source\repos\TesstEL\TesstEL\obj\Debug\TesstEL.Form1.resources
+C:\Users\Magi\source\repos\TesstEL\TesstEL\obj\Debug\TesstEL.Properties.Resources.resources
+C:\Users\Magi\source\repos\TesstEL\TesstEL\obj\Debug\TesstEL.csproj.GenerateResource.cache
+C:\Users\Magi\source\repos\TesstEL\TesstEL\obj\Debug\TesstEL.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\TesstEL\TesstEL\bin\Debug\TesstEL.exe.config
+C:\Users\Magi\source\repos\TesstEL\TesstEL\bin\Debug\TesstEL.exe
+C:\Users\Magi\source\repos\TesstEL\TesstEL\bin\Debug\TesstEL.pdb
+C:\Users\Magi\source\repos\TesstEL\TesstEL\bin\Debug\EntityFramework.dll
+C:\Users\Magi\source\repos\TesstEL\TesstEL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Magi\source\repos\TesstEL\TesstEL\bin\Debug\EntityFramework.xml
+C:\Users\Magi\source\repos\TesstEL\TesstEL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Magi\source\repos\TesstEL\TesstEL\obj\Debug\TesstEL.csproj.CopyComplete
+C:\Users\Magi\source\repos\TesstEL\TesstEL\obj\Debug\TesstEL.exe
+C:\Users\Magi\source\repos\TesstEL\TesstEL\obj\Debug\TesstEL.pdb

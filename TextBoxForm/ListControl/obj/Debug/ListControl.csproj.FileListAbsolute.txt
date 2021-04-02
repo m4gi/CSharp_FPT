@@ -1,0 +1,9 @@
+C:\Users\Magi\source\repos\TextBoxForm\ListControl\bin\Debug\ListControl.exe.config
+C:\Users\Magi\source\repos\TextBoxForm\ListControl\bin\Debug\ListControl.exe
+C:\Users\Magi\source\repos\TextBoxForm\ListControl\bin\Debug\ListControl.pdb
+C:\Users\Magi\source\repos\TextBoxForm\ListControl\obj\Debug\ListControl.Form1.resources
+C:\Users\Magi\source\repos\TextBoxForm\ListControl\obj\Debug\ListControl.Properties.Resources.resources
+C:\Users\Magi\source\repos\TextBoxForm\ListControl\obj\Debug\ListControl.csproj.GenerateResource.cache
+C:\Users\Magi\source\repos\TextBoxForm\ListControl\obj\Debug\ListControl.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\TextBoxForm\ListControl\obj\Debug\ListControl.exe
+C:\Users\Magi\source\repos\TextBoxForm\ListControl\obj\Debug\ListControl.pdb

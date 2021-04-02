@@ -1,0 +1,13 @@
+C:\Users\Magi\source\repos\TestDelegate\Del1\bin\Debug\netcoreapp3.1\Del1.exe
+C:\Users\Magi\source\repos\TestDelegate\Del1\bin\Debug\netcoreapp3.1\Del1.deps.json
+C:\Users\Magi\source\repos\TestDelegate\Del1\bin\Debug\netcoreapp3.1\Del1.runtimeconfig.json
+C:\Users\Magi\source\repos\TestDelegate\Del1\bin\Debug\netcoreapp3.1\Del1.runtimeconfig.dev.json
+C:\Users\Magi\source\repos\TestDelegate\Del1\bin\Debug\netcoreapp3.1\Del1.dll
+C:\Users\Magi\source\repos\TestDelegate\Del1\bin\Debug\netcoreapp3.1\Del1.pdb
+C:\Users\Magi\source\repos\TestDelegate\Del1\obj\Debug\netcoreapp3.1\Del1.csprojAssemblyReference.cache
+C:\Users\Magi\source\repos\TestDelegate\Del1\obj\Debug\netcoreapp3.1\Del1.AssemblyInfoInputs.cache
+C:\Users\Magi\source\repos\TestDelegate\Del1\obj\Debug\netcoreapp3.1\Del1.AssemblyInfo.cs
+C:\Users\Magi\source\repos\TestDelegate\Del1\obj\Debug\netcoreapp3.1\Del1.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\TestDelegate\Del1\obj\Debug\netcoreapp3.1\Del1.dll
+C:\Users\Magi\source\repos\TestDelegate\Del1\obj\Debug\netcoreapp3.1\Del1.pdb
+C:\Users\Magi\source\repos\TestDelegate\Del1\obj\Debug\netcoreapp3.1\Del1.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+C:\Users\Magi\source\repos\TierDemo\TierDemo\bin\Debug\TierDemo.exe.config
+C:\Users\Magi\source\repos\TierDemo\TierDemo\bin\Debug\TierDemo.exe
+C:\Users\Magi\source\repos\TierDemo\TierDemo\bin\Debug\TierDemo.pdb
+C:\Users\Magi\source\repos\TierDemo\TierDemo\bin\Debug\BussinessLogic.dll
+C:\Users\Magi\source\repos\TierDemo\TierDemo\bin\Debug\BussinessObject.dll
+C:\Users\Magi\source\repos\TierDemo\TierDemo\bin\Debug\BussinessLogic.pdb
+C:\Users\Magi\source\repos\TierDemo\TierDemo\bin\Debug\BussinessObject.pdb
+C:\Users\Magi\source\repos\TierDemo\TierDemo\obj\Debug\TierDemo.csprojAssemblyReference.cache
+C:\Users\Magi\source\repos\TierDemo\TierDemo\obj\Debug\TierDemo.Form1.resources
+C:\Users\Magi\source\repos\TierDemo\TierDemo\obj\Debug\TierDemo.Properties.Resources.resources
+C:\Users\Magi\source\repos\TierDemo\TierDemo\obj\Debug\TierDemo.csproj.GenerateResource.cache
+C:\Users\Magi\source\repos\TierDemo\TierDemo\obj\Debug\TierDemo.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\TierDemo\TierDemo\obj\Debug\TierDemo.csproj.CopyComplete
+C:\Users\Magi\source\repos\TierDemo\TierDemo\obj\Debug\TierDemo.exe
+C:\Users\Magi\source\repos\TierDemo\TierDemo\obj\Debug\TierDemo.pdb
+C:\Users\Magi\source\repos\TierDemo\TierDemo\bin\Debug\DataAccess.dll
+C:\Users\Magi\source\repos\TierDemo\TierDemo\bin\Debug\DataAccess.pdb

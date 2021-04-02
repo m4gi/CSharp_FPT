@@ -1,0 +1,11 @@
+C:\Users\Magi\source\repos\TierDemo\BussinessLogic\bin\Debug\BussinessLogic.dll
+C:\Users\Magi\source\repos\TierDemo\BussinessLogic\bin\Debug\BussinessLogic.pdb
+C:\Users\Magi\source\repos\TierDemo\BussinessLogic\bin\Debug\BussinessObject.dll
+C:\Users\Magi\source\repos\TierDemo\BussinessLogic\bin\Debug\DataAccess.dll
+C:\Users\Magi\source\repos\TierDemo\BussinessLogic\bin\Debug\BussinessObject.pdb
+C:\Users\Magi\source\repos\TierDemo\BussinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\Magi\source\repos\TierDemo\BussinessLogic\obj\Debug\BussinessLogic.csprojAssemblyReference.cache
+C:\Users\Magi\source\repos\TierDemo\BussinessLogic\obj\Debug\BussinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\TierDemo\BussinessLogic\obj\Debug\BussinessLogic.csproj.CopyComplete
+C:\Users\Magi\source\repos\TierDemo\BussinessLogic\obj\Debug\BussinessLogic.dll
+C:\Users\Magi\source\repos\TierDemo\BussinessLogic\obj\Debug\BussinessLogic.pdb

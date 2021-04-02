@@ -1,0 +1,10 @@
+C:\Users\Magi\source\repos\TextBoxForm\ValidationDemo\bin\Debug\ValidationDemo.exe.config
+C:\Users\Magi\source\repos\TextBoxForm\ValidationDemo\bin\Debug\ValidationDemo.exe
+C:\Users\Magi\source\repos\TextBoxForm\ValidationDemo\bin\Debug\ValidationDemo.pdb
+C:\Users\Magi\source\repos\TextBoxForm\ValidationDemo\obj\Debug\ValidationDemo.FormMain.resources
+C:\Users\Magi\source\repos\TextBoxForm\ValidationDemo\obj\Debug\ValidationDemo.Properties.Resources.resources
+C:\Users\Magi\source\repos\TextBoxForm\ValidationDemo\obj\Debug\ValidationDemo.csproj.GenerateResource.cache
+C:\Users\Magi\source\repos\TextBoxForm\ValidationDemo\obj\Debug\ValidationDemo.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\TextBoxForm\ValidationDemo\obj\Debug\ValidationDemo.exe
+C:\Users\Magi\source\repos\TextBoxForm\ValidationDemo\obj\Debug\ValidationDemo.pdb
+C:\Users\Magi\source\repos\TextBoxForm\ValidationDemo\obj\Debug\ValidationDemo.csprojAssemblyReference.cache

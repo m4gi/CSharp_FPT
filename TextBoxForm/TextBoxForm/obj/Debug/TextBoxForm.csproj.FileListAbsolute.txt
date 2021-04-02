@@ -1,0 +1,10 @@
+C:\Users\Magi\source\repos\TextBoxForm\TextBoxForm\bin\Debug\TextBoxForm.exe.config
+C:\Users\Magi\source\repos\TextBoxForm\TextBoxForm\bin\Debug\TextBoxForm.exe
+C:\Users\Magi\source\repos\TextBoxForm\TextBoxForm\bin\Debug\TextBoxForm.pdb
+C:\Users\Magi\source\repos\TextBoxForm\TextBoxForm\obj\Debug\TextBoxForm.csprojAssemblyReference.cache
+C:\Users\Magi\source\repos\TextBoxForm\TextBoxForm\obj\Debug\TextBoxForm.Form1.resources
+C:\Users\Magi\source\repos\TextBoxForm\TextBoxForm\obj\Debug\TextBoxForm.Properties.Resources.resources
+C:\Users\Magi\source\repos\TextBoxForm\TextBoxForm\obj\Debug\TextBoxForm.csproj.GenerateResource.cache
+C:\Users\Magi\source\repos\TextBoxForm\TextBoxForm\obj\Debug\TextBoxForm.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\TextBoxForm\TextBoxForm\obj\Debug\TextBoxForm.exe
+C:\Users\Magi\source\repos\TextBoxForm\TextBoxForm\obj\Debug\TextBoxForm.pdb
